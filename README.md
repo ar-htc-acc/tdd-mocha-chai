@@ -1,4 +1,4 @@
-# ttd-mocha-chai
+# ttd-mocha-chai (unit tests)
 Testing Mocha, Chai
 
 Run scripts for tests in the 'test' directory.
